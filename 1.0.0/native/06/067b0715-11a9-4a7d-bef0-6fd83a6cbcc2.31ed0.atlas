@@ -1,0 +1,20 @@
+
+5lian.png
+size: 723,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+top_win_higlight
+  rotate: false
+  xy: 2, 90
+  size: 662, 165
+  orig: 662, 165
+  offset: 0, 0
+  index: -1
+win_line
+  rotate: false
+  xy: 2, 2
+  size: 719, 86
+  orig: 719, 86
+  offset: 0, 0
+  index: -1

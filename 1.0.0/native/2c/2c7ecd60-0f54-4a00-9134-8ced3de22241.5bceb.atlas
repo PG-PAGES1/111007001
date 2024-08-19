@@ -1,0 +1,27 @@
+
+Symbol.png
+size: 315,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+top_center_glow_b
+  rotate: false
+  xy: 225, 28
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+top_idle_glow_a
+  rotate: false
+  xy: 119, 11
+  size: 104, 105
+  orig: 104, 105
+  offset: 0, 0
+  index: -1
+top_multiplier_mask
+  rotate: false
+  xy: 2, 2
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1

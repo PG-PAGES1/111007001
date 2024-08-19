@@ -1,0 +1,13 @@
+
+icon_ray.jpg
+size: 183,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray
+  rotate: false
+  xy: 2, 2
+  size: 179, 345
+  orig: 191, 360
+  offset: 6, 7
+  index: -1

@@ -1,0 +1,20 @@
+
+quanquan.png
+size: 193,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+select_glow_b
+  rotate: false
+  xy: 120, 26
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+win_particle_circle
+  rotate: true
+  xy: 2, 2
+  size: 96, 116
+  orig: 96, 116
+  offset: 0, 0
+  index: -1

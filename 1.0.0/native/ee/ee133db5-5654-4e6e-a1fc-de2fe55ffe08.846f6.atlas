@@ -1,0 +1,20 @@
+
+infor.png
+size: 554,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+infobar_mp_glow
+  rotate: false
+  xy: 2, 2
+  size: 289, 38
+  orig: 289, 38
+  offset: 0, 0
+  index: -1
+infobar_multiplier
+  rotate: false
+  xy: 2, 42
+  size: 550, 83
+  orig: 550, 83
+  offset: 0, 0
+  index: -1
